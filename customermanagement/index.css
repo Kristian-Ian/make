@@ -1,0 +1,16 @@
+form{
+    padding: 10px 3px;
+}
+.header {
+    text-align:left;
+    font-weight: bold;
+    color: hsl(180, 100%, 50%);
+    font-size: 14;
+    padding: 20px;
+    
+}
+ button{
+     margin: 10px;
+     
+
+}
